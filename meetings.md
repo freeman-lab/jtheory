@@ -5,12 +5,15 @@
 ## January
 * 1/12: Lorenzo
 * 1/19: Jason
-* 1/26: Gabrielle
+* 1/26: Postponed due to weather
+
+## February
+* 2/02 Gabrielle
+* 2/09 Nick
+* 2/16 Srini
+* 2/23 Sandro
 
 ## Continuing
-* Nick
-* Srini
-* Sandro
 * Jeremy
 * Andrew
 
