@@ -9,9 +9,10 @@
 
 ## February
 * 2/02 Gabrielle
-* 2/09 Nick
-* 2/16 Srini
-* 2/23 Sandro
+* 2/09 Postponed
+* 2/16 Nick
+* 2/23 Srini
+* 3/01 Sandro
 
 ## Continuing
 * Jeremy
